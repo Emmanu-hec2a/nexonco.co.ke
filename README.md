@@ -35,11 +35,11 @@ Continuous Monitoring & Adaptation<br>
 </ul>
 
 
-**🏢 Company Structure**<br>
+<h2> Company Structure</h2><br>
 NEXONCO, Inc. (Parent Company)<br>
 **Mission:** Pioneering AI-powered healthcare coordination through revolutionary technology<br>
 Product Portfolio:<br>
-**1. OncoCare Platform 🎗️**<br>
+<h3>1. OncoCare Platform 🎗️</h3><br>
 Revolutionary cancer care management with real-time coordination<br>
 
 Multi-role dashboards (Patient, Nurse, Oncologist, Admin)<br>
