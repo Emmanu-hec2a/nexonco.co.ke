@@ -30,11 +30,11 @@ Continuous Monitoring & Adaptation<br>
 **Key Innovations**<br>
 <ul>
   <li>
-✅ 35% reduction in emergency interventions<br>
-✅ 94.7% stakeholder synchronization accuracy<br>
-✅ 72-hour early detection of health deterioration<br>
-✅ Sub-2 second response time for critical alerts<br>
-✅ 99.9% system uptime reliability<br>
+      35% reduction in emergency interventions<br>
+      94.7% stakeholder synchronization accuracy<br>
+      72-hour early detection of health deterioration<br>
+      Sub-2 second response time for critical alerts<br>
+      99.9% system uptime reliability<br>
   </li>
 </ul>
 
