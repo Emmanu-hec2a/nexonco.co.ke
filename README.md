@@ -114,9 +114,9 @@ Data Processing: Real-time analysis of patient streams<br>
 Company Details<br>
 
 Founded: 2025<br>
-Headquarters: Healthcare Innovation District<br>
+Headquarters: NexOnco Inovation Hub<br>
 Industry: Healthcare Technology / Artificial Intelligence<br>
-Stage: Series A Ready<br>
+Stage: Series A 67% ready<br>
 **Patent Status**: Multiple patents for CARePath™ technology<br>
 
 **Market Opportunity**<br>
@@ -127,7 +127,7 @@ Revenue Model: SaaS subscriptions + Enterprise licensing<br>
 
 **Key Differentiators**<br>
 World's First multi-stakeholder synchronization algorithm<br>
-Patent-Pending CARePath™ technology with no direct competitors<br>
+Patented CARePath™ technology with no direct competitors<br>
 Measurable Outcomes: 35% reduction in emergency interventions<br>
 Scalable Architecture from single hospitals to global networks<br>
 Regulatory Ready with built-in HIPAA/HITECH compliance<br>
