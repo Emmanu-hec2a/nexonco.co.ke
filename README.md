@@ -1,4 +1,6 @@
-**NEXONCO**<br> Revolutionizes healthcare through breakthrough artificial intelligence that synchronizes patients, nurses, oncologists, and administrators in real-time, creating unprecedented care coordination and saving lives.<br>
+<h1>NEXONCO Inc.</h1><br> 
+
+Revolutionizes healthcare through breakthrough artificial intelligence that synchronizes patients, nurses, oncologists, and administrators in real-time, creating unprecedented care coordination and saving lives.<br>
 
 🚀 Revolutionary Technology CARePath™ Algorithm<br>
 **Patented - The world's first Multi-Dimensional Stakeholder Synchronization Algorithm**<br>
