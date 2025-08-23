@@ -58,7 +58,7 @@ Collaborative Adaptive Real-time Evaluation & Predictive Analytics<br>
 Multi-dimensional stakeholder synchronization<br>
 Continuous learning and adaptation<br>
 Real-time decision optimization<br>
-Patent Pending Technology<br>
+Patented Technology<br>
 
 **3. NEXONCO Enterprise 🏢**<br>
 Enterprise healthcare intelligence solutions<br>
@@ -72,13 +72,15 @@ Advanced analytics dashboards<br>
 
 **🛠️ Technical Architecture**<br>
 **Technology Stack**<br>
-Frontend:    HTML5, CSS3, JavaScript (ES6+), WebSocket<br>
-Backend:     Python Flask, Flask-SocketIO<br>
-Database:    PostgreSQL with real-time sync<br>
-AI/ML:       TensorFlow, PyTorch, scikit-learn<br>
-Security:    Blockchain integration, End-to-end encryption<br>
-Cloud:       AWS/Azure with auto-scaling<br>
-Real-time:   WebSocket, Server-Sent Events (SSE)<br>
+<ul>
+  <li>Frontend:    HTML5, CSS3, JavaScript (ES6+), WebSocket<br></li>
+  <li>Backend:     Python Flask, Flask-SocketIO<br></li>
+  <li>Database:    PostgreSQL with real-time sync<br></li>
+  <li>AI/ML:       TensorFlow, PyTorch, scikit-learn<br></li>
+  <li>Security:    Blockchain integration, End-to-end encryption<br></li>
+  <li>Cloud:       AWS/Azure with auto-scaling<br></li>
+  <li>Real-time:   WebSocket, Server-Sent Events (SSE)<br></li>
+</ul>
 
 **System Requirements**<br>
 Python 3.8+<br>
