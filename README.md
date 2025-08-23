@@ -35,7 +35,7 @@ Continuous Monitoring & Adaptation<br>
 </ul>
 
 
-<h2> Company Structure</h2><br>
+<h2>🏢 Company Structure</h2><br>
 NEXONCO, Inc. (Parent Company)<br>
 **Mission:** Pioneering AI-powered healthcare coordination through revolutionary technology<br>
 Product Portfolio:<br>
@@ -48,7 +48,7 @@ Integrated donation & community support system<br>
 HIPAA-compliant secure communication<br>
 Predictive intervention algorithms<br>
 
-**2. CARePath™ AI Engine 🤖**<br>
+<h3>2. CARePath™ AI Engine 🤖</h3><br>
 The world's most advanced healthcare coordination algorithm<br>
 
 Collaborative Adaptive Real-time Evaluation & Predictive Analytics<br>
@@ -57,7 +57,7 @@ Continuous learning and adaptation<br>
 Real-time decision optimization<br>
 Patented Technology<br>
 
-**3. NEXONCO Enterprise 🏢**<br>
+<h3>3. NEXONCO Enterprise 🏢</h3><br>
 Enterprise healthcare intelligence solutions<br>
 
 Multi-hospital deployment capabilities<br>
@@ -67,7 +67,7 @@ Advanced analytics dashboards<br>
 24/7 enterprise support<br>
 
 
-**🛠️ Technical Architecture**<br>
+<h2>🛠️ Technical Architecture</h2><br>
 **Technology Stack**<br>
 <ul>
   <li>Frontend:    HTML5, CSS3, JavaScript (ES6+), WebSocket<br></li>
@@ -103,14 +103,14 @@ Role-Based Access Control (Patient, Nurse, Oncologist, Admin)<br>
 Audit Trail for all data access and modifications<br>
 Session Management with automatic timeout and refresh<br>
 
-**📈 Performance & Scalability**<br>
+<h2>📈 Performance & Scalability</h2><br>
 **System Performance**<br>
 Response Time: <2 seconds for all operations<br>
 Throughput: 10,000+ concurrent users supported<br>
 Availability: 99.9% uptime SLA<br>
 Data Processing: Real-time analysis of patient streams<br>
 
-**💼 Business Information**<br>
+<h2>💼 Business Information</h2><br>
 Company Details<br>
 
 Founded: 2025<br>
@@ -149,7 +149,7 @@ Series A: $20-30K for market expansion and team growth<br>
 Strategic Investment: Healthcare systems and technology companies<br>
 Government Grants: NIH, NSF healthcare innovation funding<br>
 
-**📞 Contact & Support**<br>
+<h2>📞 Contact & Support</h2><br>
 Company Contacts<br>
 General Inquiries: petniqueke@gmail.com<br>
 Business Development: odiwourmanu123@gmail.com<br>
@@ -157,7 +157,7 @@ Investor Relations: odiwourmanu123@gmail.com<br>
 Technical Support: support@nexonco.com<br>
 Media & Press: couperethan24@gmail.com<br>
 
-**🌟 Why NEXONCO?** <br>
+<h2>🌟 Why NEXONCO?</h2> <br>
 "We're not just building software—we're saving lives through intelligent coordination."<br>
 
 **Our Vision**<br>
