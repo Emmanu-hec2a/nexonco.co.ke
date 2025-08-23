@@ -1,12 +1,12 @@
 **The World's First AI-Powered Multi-Stakeholder Healthcare Coordination Platform**
 
-**NEXONCO** revolutionizes healthcare through breakthrough artificial intelligence that synchronizes patients, nurses, oncologists, and administrators in real-time, creating unprecedented care coordination and saving lives.
+**NEXONCO** revolutionizes healthcare through breakthrough artificial intelligence that synchronizes patients, nurses, oncologists, and administrators in real-time, creating unprecedented care coordination and saving lives.<br>
 🚀 Revolutionary Technology
 CARePath™ Algorithm
-**Patent - The world's first Multi-Dimensional Stakeholder Synchronization Algorithm**
+**Patent - The world's first Multi-Dimensional Stakeholder Synchronization Algorithm**<br>
 
-**📋 License & Legal**
-Software License
+**📋 License & Legal**<br>
+Software License<br>
 NEXONCO Proprietary License
 Copyright (c) 2025 NEXONCO, Inc.
 
