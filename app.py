@@ -264,7 +264,7 @@ Your submission reference number is: #{submission_id}
 Our team will review your request and contact you soon with more information.
 
 Best regards,
-The Team
+The Nexonco Team
 
 ---
 This is an automated confirmation email.
